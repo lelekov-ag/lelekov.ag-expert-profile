@@ -1,6 +1,8 @@
 # lelekov.ag-expert-profile
 Публичный профиль эксперта и ментора для хакатонов (Лелеков Алексей Григорьевич)
 
+PDF: https://github.com/lelekov-ag/lelekov.ag-expert-profile/blob/main/README-Lelekov.AG.pdf
+
 # Лелеков Алексей Григорьевич
 
 **Роль для хакатона:** Ментор / процессный эксперт (ИТ + финансы)  
